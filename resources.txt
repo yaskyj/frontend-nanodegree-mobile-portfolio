@@ -11,3 +11,6 @@ https://developers.google.com/web/fundamentals/performance/optimizing-content-ef
 
 CSS Minify:
 http://cssminifier.com/
+
+Javascript Minify:
+http://javascript-minifier.com/
