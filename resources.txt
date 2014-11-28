@@ -4,10 +4,7 @@ http://www.maketecheasier.com/enable-photoshop-save-for-web-feature-in-gimp/
 CSS delivery:
 https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery
 https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-blocking-css
-
-Browser Caching:
-https://developers.google.com/speed/docs/insights/LeverageBrowserCaching
-https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching
+https://developers.google.com/speed/pagespeed/module/filter-css-inline
 
 Web fonts:
 https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization
