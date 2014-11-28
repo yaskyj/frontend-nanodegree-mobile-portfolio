@@ -5,9 +5,7 @@ CSS delivery:
 https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery
 https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-blocking-css
 https://developers.google.com/speed/pagespeed/module/filter-css-inline
-
-Web fonts:
-https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization
+https://gist.github.com/scottjehl/87176715419617ae6994
 
 CSS Minify:
 http://cssminifier.com/
