@@ -1,3 +1,6 @@
+Overall:
+https://developers.google.com/web/fundamentals/performance/
+
 Picture optimization:
 http://www.maketecheasier.com/enable-photoshop-save-for-web-feature-in-gimp/
 
