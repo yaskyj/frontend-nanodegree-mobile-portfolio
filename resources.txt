@@ -8,3 +8,9 @@ https://developers.google.com/web/fundamentals/performance/critical-rendering-pa
 Browser Caching:
 https://developers.google.com/speed/docs/insights/LeverageBrowserCaching
 https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching
+
+Web fonts:
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=en
+
+CSS Minify:
+http://cssminifier.com/
